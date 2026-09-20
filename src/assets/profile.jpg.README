@@ -1,0 +1,1 @@
+REPLACE THIS EMPTY PLACEHOLDER WITH YOUR OWN PROFESSIONAL PORTRAIT. Recommended: 1000 x 1200 px, JPG/WebP. Hero.tsx currently uses /assets/profile-placeholder.svg so the site runs immediately. To use profile.jpg, import it in Hero.tsx and set the img src to that import.

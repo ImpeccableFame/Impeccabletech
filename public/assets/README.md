@@ -1,0 +1,1 @@
+Place additional static assets here if preferred. The main profile image is imported from src/assets/profile.jpg.
