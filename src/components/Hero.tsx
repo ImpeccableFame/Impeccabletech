@@ -96,7 +96,7 @@ export function Hero() {
         >
           <div className="profile-halo" />
           <img
-            src="/profile.webp"
+            src={`${import.meta.env.BASE_URL}profile.webp`}
             alt="ImpeccableTech"
             className="h-full w-full object-cover"
             style={{

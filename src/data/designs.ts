@@ -7,7 +7,7 @@ export const designs: PillarItem[] = [
     category: "Web Development",
     description:
       "A modern fine-dining restaurant website designed to create an elegant digital experience for customers. The site presents the restaurant, menu, reservations, story, gallery and testimonials through a polished, immersive interface designed around the feel of a premium dining experience.",
-    image: "/projects/Epicure.webp",
+    image: `${import.meta.env.BASE_URL}projects/Epicure.webp`,
     tools: ["HTML", "CSS", "JavaScript"],
     link: "https://impeccablefame.github.io/Epicure/",
   },
@@ -17,7 +17,7 @@ export const designs: PillarItem[] = [
     category: "Web Development",
     description:
       "A modern airport website concept designed to bring essential travel information into one accessible digital experience. The platform organizes flight information, passenger services, transportation, terminal facilities and travel resources into a clear navigation structure that makes it easier for travelers to plan and manage their journey.",
-    image: "/projects/FameAir.webp",
+    image: `${import.meta.env.BASE_URL}projects/FameAir.webp`,
     tools: ["HTML", "CSS", "JavaScript"],
     link: "https://impeccablefame.github.io/FameAir/",
   },
@@ -27,7 +27,7 @@ export const designs: PillarItem[] = [
     category: "Web Development",
     description:
       "A simple task management application built to help users organize and track their daily tasks. Users can create tasks with descriptions, priorities and due dates, then manage them through pending and completed views while keeping track of overall task progress.",
-    image: "/projects/TaskManager.png",
+    image: `${import.meta.env.BASE_URL}projects/TaskManager.png`,
     tools: ["HTML", "CSS", "JavaScript"],
     link: "https://impeccablefame.github.io/Task-Manager/",
   },
@@ -35,7 +35,7 @@ export const designs: PillarItem[] = [
     id: "visual-identity",
     title: "FameAir",
     description: "[ADD PROJECT DESCRIPTION]",
-    image: "/og-placeholder.svg",
+    image: `${import.meta.env.BASE_URL}og-placeholder.svg`,
     tools: ["HTML", "CSS", "JavaScript"],
     link: "https://impeccablefame.github.io/FameAir/",
   },*/

@@ -7,7 +7,7 @@ export const automates: PillarItem[] = [
     title: "AI-Powered Order Tracking & Delivery Automation System",
     description:
       "An automated order tracking and delivery system built with n8n, Google Sheets, HTML, CSS, and JavaScript. Includes customer orders, confirmations, rider assignment, delivery tracking, notifications, and delivery confirmation.",
-    image: "/projects/Order.png",
+    image: `${import.meta.env.BASE_URL}projects/Order.png`,
     tools: ["AI", "n8n", "HTML", "CSS", "JavaScript", "Google Sheets"],
     caseStudy:
       "https://github.com/ImpeccableFame/Order-Tracking-and-Delivery-System",
@@ -18,7 +18,7 @@ export const automates: PillarItem[] = [
     title: "HireFlow: AI-Powered Recruitment Automation System",
     description:
       "HireFlow is an end-to-end recruitment automation system built with n8n, Google Sheets, AI, Gmail, HTML, CSS, and JavaScript.",
-    image: "/projects/Hireflow.png",
+    image: `${import.meta.env.BASE_URL}projects/Hireflow.png`,
     tools: [
       "n8n",
       "Webhooks",
@@ -38,7 +38,7 @@ export const automates: PillarItem[] = [
     title: "Smart Inventory Automation System",
     description:
       "A practical n8n automation project that keeps inventory synchronized across physical and online sales channels, prevents duplicate online orders, sends low-stock alerts, and provides both an admin dashboard and customer storefront.",
-    image: "/projects/Inventory.png",
+    image: `${import.meta.env.BASE_URL}projects/Inventory.png`,
     tools: [
       "n8n",
       "Webhooks",
