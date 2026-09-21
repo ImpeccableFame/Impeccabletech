@@ -24,12 +24,12 @@ export function Hero() {
   return (
     <section
       id="home"
-      className="relative flex min-h-screen items-center overflow-hidden pt-28"
+      className="relative flex min-h-screen items-center overflow-hidden pt-20"
     >
       <div className="aurora aurora-one" />
       <div className="aurora aurora-two" />
 
-      <Container className="relative grid gap-14 py-20 lg:grid-cols-[1.15fr_.85fr] lg:items-center">
+      <Container className="relative grid gap-10 py-10 md:py-12 lg:grid-cols-[1.15fr_.85fr] lg:items-center">
         <div>
           <motion.div
             initial={{ opacity: 0, y: 16 }}
