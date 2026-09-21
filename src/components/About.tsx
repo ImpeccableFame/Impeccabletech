@@ -42,9 +42,7 @@ export function About() {
                 an intelligent workflow, developing a website, designing a
                 digital experience, or translating an idea into clear words, I
                 care about creating solutions that are functional, thoughtful,
-                and easy to understand. Through ImpeccableTech, I’m continuously
-                learning, experimenting, building, and exploring what becomes
-                possible when technology, creativity, and ideas come together.
+                and easy to understand.
               </p>
               <p className="mt-6 leading-7 text-muted">
                 Through ImpeccableTech, I’m continuously learning,
