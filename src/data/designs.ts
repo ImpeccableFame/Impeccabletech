@@ -12,8 +12,19 @@ export const designs: PillarItem[] = [
     link: "https://impeccablefame.github.io/Epicure/",
   },
   {
+    id: "state-university",
+    type: "web",
+    title: "State University: A University Website",
+    category: "Web Development",
+    description:
+      "A modern university website concept designed to provide students, prospective applicants, and visitors with easy access to essential academic and institutional information. The website presents programs, admissions, campus information, news, and other university resources through a structured and accessible digital experience.",
+    image: `${import.meta.env.BASE_URL}projects/StateUni.png`,
+    tools: ["HTML", "CSS", "JavaScript"],
+    link: "https://impeccablefame.github.io/University-Website/",
+  },
+  {
     id: "visual-identity",
-    title: "FameAir: A Airport Website",
+    title: "FameAir: An Airport Website",
     category: "Web Development",
     description:
       "A modern airport website concept designed to bring essential travel information into one accessible digital experience. The platform organizes flight information, passenger services, transportation, terminal facilities and travel resources into a clear navigation structure that makes it easier for travelers to plan and manage their journey.",
@@ -31,14 +42,6 @@ export const designs: PillarItem[] = [
     tools: ["HTML", "CSS", "JavaScript"],
     link: "https://impeccablefame.github.io/Task-Manager/",
   },
-  /*{
-    id: "visual-identity",
-    title: "FameAir",
-    description: "[ADD PROJECT DESCRIPTION]",
-    image: `${import.meta.env.BASE_URL}og-placeholder.svg`,
-    tools: ["HTML", "CSS", "JavaScript"],
-    link: "https://impeccablefame.github.io/FameAir/",
-  },*/
   {
     id: "church-program-flyers",
     type: "graphic",
