@@ -40,7 +40,7 @@ export const automates: PillarItem[] = [
       "LeadFlow: AI-Powered Lead Capture & Qualification Automation System",
     description:
       "LeadFlow LeadFlow is a full-stack web and automation project that captures website enquiries, stores lead data in Supabase, and processes submissions through n8n for automated qualification, scoring, and classification. It combines a modern Next.js interface with backend APIs, database integration, workflow automation, and a real-time lead management dashboard.",
-    image: `${import.meta.env.BASE_URL}projects/Leadflow.png`,
+    image: `${import.meta.env.BASE_URL}projects/LeadFlow.png`,
     tools: ["n8n", "Webhooks", "HTML", "CSS", "Next.js", "Supabase"],
     caseStudy: "https://github.com/ImpeccableFame/LeadFlow",
   },
